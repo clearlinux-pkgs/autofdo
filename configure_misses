@@ -1,0 +1,3 @@
+Configure miss: clang option to accept ISO C89
+Configure miss: whether clang++ supports C++11 features by default
+Configure miss: __uint16
